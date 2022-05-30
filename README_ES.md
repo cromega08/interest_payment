@@ -9,7 +9,7 @@ Se tiene la información sobre la siguiente información de las N cuentas de aho
 
 * Fecha de apertura, de tipo **_String_** de **_longitud 10_**, con formato **_“aaaa/mm/dd”_ (Año/Mes/Día)**.
 
-* Tipo de cuenta **_(1: AhorroDiario, 2: CuentaJoven, 3: Tradicional)_**, de tipo **_int_**.
+* Tipo de cuenta **_(1: Ahorro Diario, 2: Cuenta Joven, 3: Tradicional)_**, de tipo **_int_**.
 
 * Saldo de la cuenta, de tipo **_float_**.
 
@@ -21,9 +21,9 @@ EL banco desea realizar un programa en **_JAVA_**, utilizando la programación e
 
 * Saldo de la cuenta con el incremento del valor de interés.
 
-* Me muestre la suma total de intereses de todas las cuentas.
+* La suma total de intereses de todas las cuentas.
 
-* Me muestra la suma de total de saldos.
+* La suma de total de saldos.
 
 Además, suministran la información para calcular el valor de interés de la cuenta, que depende del tipo de cuenta, así:
 
