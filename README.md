@@ -36,13 +36,12 @@ In addition, they provide the information to calculate the interest value of the
 
 ## Authors
 
-- [@Cromega08](https://www.github.com/cromega08)
-
+* [@Cromega08](https://www.github.com/cromega08)
 
 ## License
 
-[GNU AGPL v3.0](https://choosealicense.com/licenses/agpl-3.0/)
+* [GNU AGPL v3.0](https://choosealicense.com/licenses/agpl-3.0/)
+
 ## Feedback
 
 If you have any feedback, please feel free to fork this repository and update the solution
-

@@ -3,7 +3,6 @@
 
 **Languages:** [EN](https://github.com/cromega08/interest_payment/blob/master/README.md) - [ES](https://github.com/cromega08/interest_payment/blob/master/README_ES.md)
 
-
 ## Reto
 
 Se tiene la información sobre la siguiente información de las N cuentas de ahorro de una organización bancaria:
@@ -35,3 +34,15 @@ Además, suministran la información para calcular el valor de interés de la cu
 | 1. Ahorro Diario | 1.5 |
 | 2. Cuenta Joven  | 1.7 |
 | 3. Tradicional   | 1.6 |
+
+## Authors
+
+* [@Cromega08](https://www.github.com/cromega08)
+
+## License
+
+* [GNU AGPL v3.0](https://choosealicense.com/licenses/agpl-3.0/)
+
+## Feedback
+
+Si tienes alguna solucion mas optima que quieras compartir, haz fork de este repositorio y sube tu solucion despues.
