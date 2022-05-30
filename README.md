@@ -1,5 +1,7 @@
 # Settlement of interest on savings accounts
 
+**Languages:** [ES](https://github.com/cromega08/interest_payment/blob/master/README_ES.md) - [EN](https://github.com/cromega08/interest_payment/blob/master/README.md)
+
 ## Challenge
 
 We have the information about the following N savings accounts of a banking organization:
