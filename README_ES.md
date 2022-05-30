@@ -1,6 +1,9 @@
 
 # Liquidación intereses de cuentas de ahorro
 
+**Languages:** [EN](https://github.com/cromega08/interest_payment/blob/master/README.md) - [ES](https://github.com/cromega08/interest_payment/blob/master/README_ES.md)
+
+
 ## Reto
 
 Se tiene la información sobre la siguiente información de las N cuentas de ahorro de una organización bancaria:
@@ -25,7 +28,7 @@ EL banco desea realizar un programa en **_JAVA_**, utilizando la programación e
 
 * La suma de total de saldos.
 
-Además, suministran la información para calcular el valor de interés de la cuenta, que depende del tipo de cuenta, así:
+Además, suministran la información para calcular el valor de interés de la cuenta, que depende del tipo de cuenta:
 
 | Tipo de cuenta   | (%) de interés mensual|
 | ---|---|
