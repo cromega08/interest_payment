@@ -16,7 +16,7 @@ public class IO {
     synchronized String[] get_data() {
         String[] account = new String[3];
         try{
-            account[0] = JOptionPane.showInputDialog(null, "Number Account");
+            account[0] = JOptionPane.showInputDialog(null, "Number Account of 8 digits\n\nEx.: 12345678");
             check_data(account, 0);
             account[1] = JOptionPane.showInputDialog(null, "Open date (yyyy/mm/dd)\n\nEx.: 2022/04/06");
             check_data(account, 1);
