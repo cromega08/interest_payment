@@ -1,18 +1,46 @@
-## Getting Started
+# Settlement of interest on savings accounts
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Challenge
 
-## Folder Structure
+We have the information about the following N savings accounts of a banking organization:
 
-The workspace contains two folders by default, where:
+* Account number, of type **_String_**.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Opening date, type **_String_** of **_length 10_**, format **_“yyyy/mm/dd”_ (Year/Month/Day)**.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Type of account **_(1: Daily Savings, 2: Young Account, 3: Traditional)_**, of type **_int_**.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Account balance, of type **_float_**.
 
-## Dependency Management
+The bank want to create a program in **_JAVA_**, using structured programming, that calculates and displays the following information:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* Account number
+
+* Monthly interest value of the account
+
+* Balance of the account with the increase in the interest value.
+
+* Show the total amount of interest on all accounts.
+
+* Shows the sum of total balances.
+
+In addition, they provide the information to calculate the interest value of the account, which depends on the type of account, as follows:
+
+| Account Type | (%) monthly interest|
+| ---|---|
+| 1. Daily Savings | 1.5 |
+| 2. Young Account | 1.7 |
+| 3. Traditional | 1.6 |
+
+## Authors
+
+- [@Cromega08](https://www.github.com/cromega08)
+
+
+## License
+
+[GNU AGPL v3.0](https://choosealicense.com/licenses/agpl-3.0/)
+## Feedback
+
+If you have any feedback, please feel free to fork this repository and update the solution
+
