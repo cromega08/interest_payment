@@ -5,7 +5,7 @@
 
 ## Reto
 
-Se tiene la información sobre la siguiente información de las N cuentas de ahorro de una organización bancaria:
+Se tiene la información sobre las N cuentas de ahorro de una organización bancaria:
 
 * Número de cuenta, de tipo **_String_**.
 
